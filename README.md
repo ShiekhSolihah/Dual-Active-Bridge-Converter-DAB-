@@ -4,4 +4,4 @@ MATLAB/Simulink models for a Dual Active Bridge (DAB) DC-DC converter with solar
 
 The primary and secondary voltage phase difference determines the power flow between the primary and secondary side of the transformer.
 
-![Phase Shift Modulation](images/194F9D53-0FE7-4FF2-84B7-BE7A7E961A9C.png)
+![Phase Shift Modulation](dab.jpg)
