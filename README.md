@@ -15,7 +15,7 @@ The primary and secondary voltage phase difference determines the power flow bet
 ## DAB DC - DC converter with Battery load
 
 <p>
-A Battery is connected at load that will charge for T=1sec and discharge after T=1sec. Inbuilt simulink generic model of Battery is used in this project, in order to show the %SOC of the EV Battery. This way, the bidirectional power flow from vehicle to Grid and Grid to vehicle can be easily analyzed. The charging and discharging of Load Battery is shown in the Figure. The DAB DC - DC converter with Battery load is given in <code>DAB_batteryload.slx</code> file.
+A Battery is connected at load that will charge for T=1sec and discharge after T=1sec. Inbuilt simulink generic model of Battery is used in this project, in order to show the %SOC of the EV Battery. This way, the bidirectional power flow from vehicle to Grid and Grid to vehicle can be easily analyzed. The schematic of the DAB converter with loads and its charging and discharging of Load Battery is shown in the figures below. The DAB DC - DC converter with Battery load is given in <code>DAB_batteryload.slx</code> file.
 </p>
 
 <img src="schematic_batteryload.jpg" alt="Phase Shift Modulation" width="400">, <img src="batteryload.jpg" alt="Phase Shift Modulation" width="400">
