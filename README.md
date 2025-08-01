@@ -10,7 +10,7 @@ MATLAB/Simulink models for a Dual Active Bridge (DAB) DC-DC converter with solar
 The primary and secondary voltage phase difference determines the power flow between the primary and secondary side of the transformer. This modulation technique is implemented in the <code>DAB_Rload.slx</code> file. Also, 
 </p>
 
-<img src="images/schematic_Rload.jpg" alt="Phase Shift Modulation" width="400"> <img src="images/dab.jpg" alt="Phase Shift Modulation" width="400">
+<img src="images/schematic_rload.jpg" alt="Phase Shift Modulation" width="400"> <img src="images/dab.jpg" alt="Phase Shift Modulation" width="400">
 
 ## DAB DC - DC converter with Battery load
 
