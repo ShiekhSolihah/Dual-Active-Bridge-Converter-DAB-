@@ -1,6 +1,6 @@
 # Dual-Active-Bridge-Converter (DAB)
 
-MATLAB/Simulink models for a Dual Active Bridge (DAB) DC-DC converter with solar PV integration. Includes standalone DAB configurations, variable load conditions, and test cases for analyzing converter performance in renewable energy applications and EV charging.
+This repository contains MATLAB/Simulink models demonstrating the operation of a Dual Active Bridge (DAB) DC-DC converter, commonly used in renewable energy systems and electric vehicle (EV) applications for bidirectional power transfer. The DAB converter is modeled with different load configurations and modulation techniques to study its dynamic behavior under various conditions.
 
 ---
 
